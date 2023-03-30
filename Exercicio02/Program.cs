@@ -8,7 +8,7 @@ namespace Exercicio02
     {
         public static int[] PalavrasCaracteres(string frase)
         {
-            int palavras = 0;
+            int palavras = 1;
             int caracteresTotal = 0;
             for (int i = 0; i < frase.Length; i++)
             {
